@@ -1,0 +1,162 @@
+/* Nébula by 𝒩𝑒́𝒷𝓊𝓁𝑒𝓊𝓈𝑒#0752 */
+
+body {
+    background-image: url(https://raw.githubusercontent.com/LCN8888/LCN8888/main/831608.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: 'Gill Sans', 'Arabic Typesetting', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  h3 {
+      color:#FF6A00;
+      border-radius: 20px;
+        border-color: #aaa6ff;
+  }
+  
+  h5 {
+      color:#FF6A00;
+  }
+  
+  .form-check-input {
+    background-color: rgb(255, 118, 28);
+  }
+  
+  .form-check-input:checked{
+    background-color: orange;
+    accent-color:orange;
+    box-shadow: orange;
+  }
+  
+  .navbar-brand {
+    background-image: url(https://raw.githubusercontent.com/LCN8888/LCN8888/main/30.png);
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 80px;
+    text-indent:-999px;
+  }
+  
+  .card {
+    margin-top:14px;
+    background-color: rgba(255, 89, 0, .18);
+    border: 1.5px solid #FF5900;
+    transition-duration: 0.2s;
+    outline-style: solid;
+    outline-width: 24x;
+    outline-color: orange;
+    
+  }
+  .card:hover{
+    outline-width: 3px;
+    background-color: #000000cb;
+    } 
+  
+  b {
+      color:#FF6B3A;
+  }
+  i {
+      color:rgb(255, 71, 1);
+  }
+  #customSystemButton:hover i {
+      color:#0000;
+        background-color:#00000000;
+  }
+  #customSystemURLInput {
+        color:rgb(255, 89, 0);
+      backdrop-filter: brightness(1.2) blur(10px) saturate(2);
+        background-color:#00000000;
+        border-radius: 7.5px;
+      border: 1.5px solid rgb(255, 89, 0);
+      font-size: 10px;}
+  #customSystemURLInput:input {
+    color:rgb(255, 89, 0);
+  }
+  #customGameShareButton {
+      display:none;
+        font-size:1px;
+  }
+  
+  label {
+      color:#FF7D32;
+      font-weight: 700;
+    
+  }
+  .modal-content {
+    background-color:#381C00;
+  }
+  #systemsList::-webkit-scrollbar {
+    width: 5px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .btn-danger {
+    color: #00000000;
+    background-color:#0000
+  }
+  footer {
+    color: rgb(90, 1, 0);
+    font-size:1px;
+    display: none; 
+  }
+  
+  #systemReportCard {
+    outline-style: solid;
+    outline-width:2px;
+    outline-color:orange;
+  }
+  
+  #systemReportPlayerList {
+    color: #CF8917;
+  }
+  #systemReportLink {
+    color: #FF4C00;
+  }
+  
+  
+  #customThemeShow {
+    border-color:orange;
+    border-width: 2px;
+    color:orange;
+    transition-duration: 0.2s;
+  }
+  
+  #customThemeShow:hover {
+    background-color: #00000067;
+    border-width:3px;
+    border-color:rgb(255, 89, 0);
+    color:rgb(226, 90, 0);
+    font-weight: bold;
+  }
+  
+  .text-center {
+    color:#FF5900;
+  }
+  
+  .col-sm-2 {
+    color:rgb(255, 255, 255);
+  }
+
+  .w-10 {
+    border-color:#FF6A00;
+    transition-duration: 0.15s;
+}
+
+.w-90 {
+    border-color:#FF6A00;
+    transition-duration: 0.15s;
+}
+
+#customSystemButton {
+    border-color: #DD5800;
+}
+
+.w-10:hover {
+    border-color:#FF6A00;
+    background-color: #722200;
+}
+
+.w-90:hover {
+    border-color:#FF6A00;
+    background-color: #722200;
+    color:black;
+    font-weight:bold;
+}
